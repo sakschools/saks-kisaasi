@@ -8,6 +8,7 @@ theme = "C:\\Users\\timot\\SAKS_web\\sirapollokaggwaschools\\themes\\saks-theme"
 mainSchool = false
 defaultDescription = "Sir Apollo Kaggwa nursery and primary school-Kisaasi is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level."
     [params.school]
+        hm_name = "TWEHEYO SAM"
         hm = "A school that offers holistic and quality primary education in Uganda. Our children excel in National exams with only first grades and we are proud of this.Not only that but also our pupils are equipped with skills in swimming, ball games, athletics, home economics, debate, and computer knowledge."
         name = "kisaasi"
         motto = 'We Ignite Excellence in all our pupils.'
