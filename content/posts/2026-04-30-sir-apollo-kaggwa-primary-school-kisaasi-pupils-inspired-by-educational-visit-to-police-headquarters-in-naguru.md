@@ -4,7 +4,7 @@ title: Sir Apollo Kaggwa Primary School Kisaasi Pupils Inspired by Educational
 date: 2026-04-28T04:19:00+03:00
 thumbnail: /img/1001754151.jpg
 ---
-Today, pupils and staff of Sir Apollo Kaggwa Primary School Kisaasi had a remarkable and inspiring educational experience during their visit to Police Headquarters in Naguru. The learners, drawn from Primary Three and Primary Four, were warmly received by the Inspector General of Police, Abas Byakagaba, as part of our ongoing commitment to experiential learning and exposure beyond the classroom. 
+Pupils and staff of Sir Apollo Kaggwa Primary School Kisaasi had a remarkable and inspiring educational experience during their visit to Police Headquarters in Naguru today. The learners, drawn from Primary Three and Primary Four, were warmly received by the Inspector General of Police, Abas Byakagaba, as part of our ongoing commitment to experiential learning and exposure beyond the classroom.
 
 The visit offered a meaningful opportunity for pupils to understand key national institutions in Uganda and appreciate their role in safeguarding the nation.
 
