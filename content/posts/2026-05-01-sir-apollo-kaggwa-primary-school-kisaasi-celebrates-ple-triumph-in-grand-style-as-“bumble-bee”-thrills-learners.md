@@ -12,6 +12,8 @@ The day commenced on an energetic note with a lively aerobics session that saw p
 
 In his address, the Headteacher, Mr. Tweheyo Sam, applauded the collective effort of pupils, teachers, and parents in attaining commendable academic success. He emphasized the school’s dedication to nurturing disciplined, focused, and well-rounded learners, highlighting the PLE results as a testament to consistent hard work and effective guidance. His remarks were followed by a recognition ceremony in which outstanding academic performers, referred to as the “academic giants”, were celebrated and awarded gifts in appreciation of their excellence and determination.
 
+![](/img/1001760379.jpg)
+
 Adding a rich cultural and social flavor to the occasion, a bull roasting session brought members of the school community together in shared celebration, reinforcing bonds and creating a festive atmosphere. Meanwhile, the children were treated to a variety of recreational activities that turned the school grounds into a hub of joy and laughter. From bouncing castles to trampolines, the learners fully immersed themselves in the fun-filled environment.
 
 ![](/img/1001760366.jpg)
