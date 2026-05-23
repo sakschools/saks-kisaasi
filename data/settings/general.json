@@ -1,0 +1,17 @@
+{
+  "theme": "saks-theme",
+  "logo": "/img/logo.png",
+  "mainSchool": false,
+  "school": {
+    "motto": "We Ignite Excellence in all our pupils.",
+    "mission": "To be a leading school in the provision of quality education",
+    "vision": "The vision of Sir Apollo Kaggwa Primary School, Kisaasi is to produce devoted learners in academics, moral education and life skills, leadership skills, creativity, and innovation, honest and humble, self-driven with a positive attitude towards quality work."
+  },
+  "address": "",
+  "title": "Sir Apollo Kaggwa Primary School Kisaasi",
+  "locale": "en-us",
+  "defaultDescription": "Sir Apollo Kaggwa nursery and primary school-Kisaasi is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level.",
+  "email": "info@sirapollokaggwaschools.co.ug",
+  "baseURL": "https://kisaasi.sirapollokaggwaschools.co.ug/",
+  "google_map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7291066068656!2d32.590540073699415!3d0.38315786392293166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177db08357629835%3A0x8c40313db69df633!2sSir%20Apollo%20Kaggwa%20Primary%20School%20-%20Kisaasi!5e0!3m2!1sen!2sug!4v1711320660274!5m2!1sen!2sug"
+}
